@@ -11,3 +11,9 @@ He is carbon-based life form who developed by humans in Turkey. All properties c
 - <a href="https://muhammedkarakul.medium.com" target="_blank">Medium</a>
 - <a href="https://www.youtube.com/channel/UCk5IH4dGZLcKmsHIYatGMxw" target="_blank">YouTube</a>
 - <a href="https://www.linkedin.com/in/muhammed-karakul/" target="_blank">LinkedIn</a>
+
+## Stats
+
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedkarakul&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkarakul&layout=compact)
