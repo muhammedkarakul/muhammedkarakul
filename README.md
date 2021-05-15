@@ -8,6 +8,6 @@ He is carbon-based life form who developed by humans in Turkey. All properties c
 - 📫 How to reach him: <a href="mailto:muhammedkarakul@gmail.com">muhammedkarakul@gmail.com</a>
 
 ## Outputs
-- <a href="https://muhammedkarakul.medium.com">Medium</a>
-- <a href="https://www.youtube.com/channel/UCk5IH4dGZLcKmsHIYatGMxw">YouTube</a>
-- <a href="https://www.linkedin.com/in/muhammed-karakul/">LinkedIn</a>
+- <a href="https://muhammedkarakul.medium.com" target="_blank">Medium</a>
+- <a href="https://www.youtube.com/channel/UCk5IH4dGZLcKmsHIYatGMxw" target="_blank">YouTube</a>
+- <a href="https://www.linkedin.com/in/muhammed-karakul/" target="_blank">LinkedIn</a>
