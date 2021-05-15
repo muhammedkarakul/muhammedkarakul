@@ -10,4 +10,4 @@ He is carbon-based life form who developed by humans in Turkey. All properties c
 ## Outputs
 - <a href="https://muhammedkarakul.medium.com">Medium</a>
 - <a href="https://www.youtube.com/channel/UCk5IH4dGZLcKmsHIYatGMxw">YouTube</a>
-- <a href="https://www.linkedin.com/in/muhammed-karakul/>LinkedIn</a>
+- <a href="https://www.linkedin.com/in/muhammed-karakul/">LinkedIn</a>
