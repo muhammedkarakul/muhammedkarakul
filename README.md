@@ -1,16 +1,13 @@
-### Hi there 👋
+### Muhammed Karakul
+He is carbon-based life form who developed by humans in Turkey. All properties coded to DNA's with protein particles. He also love coding silicon based systems. He is mostly develop iOS applications for now. If you faced any problem with him, you can feel free to open an issue. We fix it as quick as possible.
 
-<!--
-**muhammedkarakul/muhammedkarakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Features
+- 🔭 He is currently working on iOS development.
+- 👯 He is looking to collaborate on Swift bases repos.
+- 💬 Ask him about retro game consoles, computer science, software development, rock music 🤘🏻
+- 📫 How to reach him: <a href="mailto:muhammedkarakul@gmail.com">muhammedkarakul@gmail.com</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Outputs
+- <a href="https://muhammedkarakul.medium.com">Medium</a>
+- <a href="https://www.youtube.com/channel/UCk5IH4dGZLcKmsHIYatGMxw">YouTube</a>
+- <a href="https://www.linkedin.com/in/muhammed-karakul/>LinkedIn</a>
